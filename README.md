@@ -12,4 +12,3 @@ A brief description of what this project does and who it's for
 Enter this link to veiw project web
 [Demo](https://salahalddinn.github.io/h_w7/)
 
-https://salahalddinn.github.io/h_w7/
